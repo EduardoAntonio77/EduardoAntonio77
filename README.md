@@ -1,10 +1,10 @@
 # ` > ` Olá! Eu sou Eduardo!
 ### Aprendendo o futuro.
 <a href="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoAntonio77&rank_icon=github&theme=onedark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoAntonio77&rank_icon=github&theme=synthwave" />
 </a>
 <a href="https://github.com/EduardoAntonio77/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoAntonio77&layout=compact&langs_count=8&card_width=100&theme=onedark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoAntonio77&layout=compact&langs_count=8&card_width=100&theme=synthwave" />
 </a>
 
   ### Linguagens:
