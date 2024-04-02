@@ -1,7 +1,7 @@
 # ` > ` Olá! Eu sou Eduardo!
 ### Aprendendo o futuro.
 <a href="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&rank_icon=github&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoAntonio77&rank_icon=github&theme=dracula" />
 </a>
 <a href="https://github.com/EduardoAntonio77/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoAntonio77&layout=compact&langs_count=8&card_width=100&theme=dracula" />
